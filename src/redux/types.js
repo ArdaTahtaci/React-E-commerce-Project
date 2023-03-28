@@ -1,0 +1,6 @@
+export const FETCH_ALL_PRODUCTS = "FETCH_ALL_PRODUCTS"
+export const FETCH_BY_CATEGORY = "FETCH_BY_CATEGORY"
+export const FETCH_BY_ID = "FETCH_BY_ID"
+export const ADD_TO_CHART = "ADD_TO_CHART"
+export const DELETE_ALL = "DELETE_ALL"
+export const DELETE_ONE = "DELETE_ONE"
